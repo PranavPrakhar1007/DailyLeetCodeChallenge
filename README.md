@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1678-goal-parser-interpretation](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
