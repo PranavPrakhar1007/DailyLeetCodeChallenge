@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1678-goal-parser-interpretation](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1678-goal-parser-interpretation) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
