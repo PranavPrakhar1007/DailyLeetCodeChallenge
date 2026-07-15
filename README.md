@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -73,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
