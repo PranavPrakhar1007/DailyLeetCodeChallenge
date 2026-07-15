@@ -17,6 +17,7 @@
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2469-convert-the-temperature) |
+| [2544-alternating-digit-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 ## String
 |  |
 | ------- |
