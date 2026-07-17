@@ -17,6 +17,7 @@
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2235-add-two-integers) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2469-convert-the-temperature](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 ## String
@@ -53,6 +54,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +112,5 @@
 | ------- |
 | [0258-add-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 <!---LeetCode Topics End-->
