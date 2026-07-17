@@ -11,6 +11,7 @@
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
