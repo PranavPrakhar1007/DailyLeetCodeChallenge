@@ -23,6 +23,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [1678-goal-parser-interpretation](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1678-goal-parser-interpretation) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 ## Dynamic Programming
