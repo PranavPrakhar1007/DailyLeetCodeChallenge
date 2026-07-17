@@ -22,6 +22,7 @@
 | [2235-add-two-integers](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2235-add-two-integers) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2469-convert-the-temperature](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 ## String
