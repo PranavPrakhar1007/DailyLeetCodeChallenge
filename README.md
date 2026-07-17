@@ -56,6 +56,7 @@
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
