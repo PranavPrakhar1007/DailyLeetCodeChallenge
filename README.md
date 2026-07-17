@@ -22,6 +22,7 @@
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2469-convert-the-temperature](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
+| [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [1929-concatenation-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
+| [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 | [1952-three-divisors](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
