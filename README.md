@@ -25,6 +25,7 @@
 | [2520-count-the-digits-that-divide-a-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2544-alternating-digit-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,9 +126,11 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
+| [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1952-three-divisors) |
+| [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
 <!---LeetCode Topics End-->
