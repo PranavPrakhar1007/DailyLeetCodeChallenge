@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0258-add-digits) |
@@ -90,6 +91,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0342-power-of-four) |
