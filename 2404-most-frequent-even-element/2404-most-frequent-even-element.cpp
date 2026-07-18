@@ -1,27 +1,27 @@
+#pragma GCC optimize("O3,unroll-loops")
+static const int _ = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
+
 class Solution {
 public:
     int mostFrequentEven(vector<int>& nums) {
-        unordered_map<int,int> mpp;
-        int flag = 0;
-        for(int x:nums)
-        {
-            if(x%2==0) 
-            {
-                mpp[x]++;
-                flag=1;
-            }
-        }  
-        int maxi = 0;
+        int count[100001] = {0};
         int ans = -1;
-        if(flag==0) return ans;
-        for(auto const &[key,value] : mpp)
-        {
-            if(value>maxi)
-            {
-                maxi = value;
-                ans = key;
+        int maxFreq = 0;
+        
+        for (int x : nums) {
+            if ((x & 1) == 0) {
+                count[x]++;
+                if (count[x] > maxFreq) {
+                    maxFreq = count[x];
+                    ans = x;
+                } else if (count[x] == maxFreq && x < ans) {
+                    ans = x;
+                }
             }
-            else if(value==maxi) ans = min(ans,key);
         }
         return ans;
     }
