@@ -77,6 +77,7 @@
 | [1748-sum-of-unique-elements](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2404-most-frequent-even-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
@@ -92,6 +93,7 @@
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 ## Bit Manipulation
 |  |
 | ------- |
