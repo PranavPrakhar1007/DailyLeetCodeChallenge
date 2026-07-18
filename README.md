@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0258-add-digits) |
