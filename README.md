@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
@@ -92,6 +93,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -105,6 +107,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Counting
