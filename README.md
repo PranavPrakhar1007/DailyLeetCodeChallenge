@@ -12,6 +12,7 @@
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 ## Matrix
 |  |
