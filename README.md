@@ -10,6 +10,7 @@
 | [0048-rotate-image](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0258-add-digits) |
@@ -56,6 +57,7 @@
 | [0054-spiral-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0189-rotate-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -82,6 +84,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 ## Dynamic Programming
