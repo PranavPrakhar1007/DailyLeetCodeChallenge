@@ -61,6 +61,7 @@
 | [0054-spiral-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
@@ -123,6 +125,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
@@ -147,6 +150,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Stack
@@ -185,6 +189,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 ## Queue
 |  |
