@@ -64,6 +64,7 @@
 | [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
@@ -207,6 +210,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -224,4 +228,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
