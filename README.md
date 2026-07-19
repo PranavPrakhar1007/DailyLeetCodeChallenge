@@ -81,6 +81,7 @@
 | [2404-most-frequent-even-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
+| [2706-buy-two-chocolates](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 | [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
 ## Hash Table
 |  |
@@ -158,6 +159,7 @@
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2706-buy-two-chocolates](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 ## Stack
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | ------- |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [2706-buy-two-chocolates](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
 | ------- |
