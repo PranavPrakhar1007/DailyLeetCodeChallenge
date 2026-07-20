@@ -45,6 +45,7 @@
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0796-rotate-string) |
+| [1446-consecutive-characters](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1446-consecutive-characters) |
 | [1678-goal-parser-interpretation](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1773-count-items-matching-a-rule) |
 ## Simulation
