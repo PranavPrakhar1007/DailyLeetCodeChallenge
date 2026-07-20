@@ -15,6 +15,7 @@
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
@@ -71,6 +72,7 @@
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0414-third-maximum-number) |
@@ -106,6 +108,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
@@ -162,6 +165,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0779-k-th-symbol-in-grammar) |
@@ -182,6 +186,7 @@
 | [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -217,6 +222,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
