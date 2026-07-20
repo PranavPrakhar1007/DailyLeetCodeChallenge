@@ -89,6 +89,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
@@ -178,6 +179,7 @@
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2706-buy-two-chocolates](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 ## Stack
 |  |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
