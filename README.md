@@ -56,6 +56,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0054-spiral-matrix) |
@@ -106,6 +107,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0189-rotate-array) |
