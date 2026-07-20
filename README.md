@@ -43,6 +43,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1678-goal-parser-interpretation](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1678-goal-parser-interpretation) |
 ## Simulation
 |  |
@@ -246,4 +247,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
