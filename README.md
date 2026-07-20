@@ -95,6 +95,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2404-most-frequent-even-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 | [2706-buy-two-chocolates](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 | [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
@@ -112,6 +113,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
+| [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
