@@ -71,6 +71,7 @@
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
