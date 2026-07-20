@@ -81,6 +81,7 @@
 | [0414-third-maximum-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
@@ -117,6 +118,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -226,6 +228,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
