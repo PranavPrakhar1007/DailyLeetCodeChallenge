@@ -60,6 +60,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0048-rotate-image) |
@@ -111,6 +112,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
