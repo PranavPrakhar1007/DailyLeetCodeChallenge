@@ -77,6 +77,7 @@
 | [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
@@ -254,6 +255,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -322,6 +325,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
