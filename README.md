@@ -77,6 +77,7 @@
 | [0204-count-primes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -121,6 +122,7 @@
 | [0073-set-matrix-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0796-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
