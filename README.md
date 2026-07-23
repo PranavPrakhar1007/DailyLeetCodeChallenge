@@ -92,6 +92,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
@@ -150,6 +151,7 @@
 | [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0905-sort-array-by-parity](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
@@ -214,6 +216,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
