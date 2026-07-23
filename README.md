@@ -92,6 +92,7 @@
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -147,6 +148,7 @@
 | [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -211,6 +213,7 @@
 | [0414-third-maximum-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
