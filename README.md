@@ -99,6 +99,7 @@
 | [0896-monotonic-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -136,6 +137,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
