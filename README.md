@@ -87,6 +87,7 @@
 | [0525-contiguous-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0896-monotonic-array) |
@@ -239,6 +240,7 @@
 | ------- |
 | [0525-contiguous-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
