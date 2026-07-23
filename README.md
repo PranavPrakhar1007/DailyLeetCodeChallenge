@@ -40,6 +40,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -159,6 +160,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -313,4 +315,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
