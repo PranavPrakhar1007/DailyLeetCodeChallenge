@@ -27,35 +27,7 @@ public:
         }
         return result;
     }
-    Node solve(vector<vector<int>> &intervals, int i, int k)
-    {
-        if(k==0 || i>=n)
-        {
-            return Node();
-        }
-        if(t[i][k].score!=-1)
-        {
-            return t[i][k];
-        }
-        Node skip = solve(intervals,i+1,k);
-        int wt = intervals[i][2];
-        int idx = intervals[i][3];
-        int j = nextIndx[i];
-        Node temp = solve(intervals, j, k-1);
-        Node take;
-        take.score = temp.score + wt;
-        take.indxs = temp.indxs;
-        take.indxs.push_back(idx);
-        sort(begin(take.indxs),end(take.indxs));
-        Node result;
-        if(skip.score > take.score) result = skip;
-        else if(skip.score<take.score) result = take;
-        else
-        {
-            result = (skip.indxs<take.indxs)?skip:take;
-        }
-        return t[i][k] = result;
-    }
+    
     vector<int> maximumWeight(vector<vector<int>>& intervals) {
         n = intervals.size();
         for(int i=0;i<n;i++)
@@ -72,6 +44,30 @@ public:
         
         int K = 4;
         t.assign(n+1,vector<Node>(K+1));
-        return solve(intervals,0,K).indxs;
+        for(int i=n-1;i>=0;i--)
+        {
+            int wt = intervals[i][2];
+            int idx = intervals[i][3];
+            int j = nextIndx[i];
+            for(int k=1;k<=K;k++)
+            {
+                Node skip = t[i+1][k];
+                Node temp = t[j][k-1];
+                Node take;
+                take.score = temp.score + wt;
+                take.indxs = temp.indxs;
+                take.indxs.push_back(idx);
+                sort(begin(take.indxs),end(take.indxs));
+                Node result;
+                if(skip.score > take.score) result = skip;
+                else if(skip.score<take.score) result = take;
+                else
+                {
+                    result = (skip.indxs<take.indxs)?skip:take;
+                }
+                    t[i][k] = result;
+                }
+        }
+        return t[0][K].indxs;
     }
 };
