@@ -95,6 +95,7 @@
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0835-image-overlap](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
@@ -214,6 +215,7 @@
 | [0054-spiral-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0835-image-overlap](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
