@@ -51,6 +51,7 @@
 | [1446-consecutive-characters](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1446-consecutive-characters) |
 | [1678-goal-parser-interpretation](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1773-count-items-matching-a-rule) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -165,6 +166,7 @@
 | [0680-valid-palindrome-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
@@ -173,6 +175,7 @@
 | [0070-climbing-stairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -286,6 +289,7 @@
 | ------- |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2706-buy-two-chocolates](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 ## Divide and Conquer
 |  |
