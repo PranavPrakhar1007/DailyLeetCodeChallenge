@@ -27,6 +27,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1952-three-divisors](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2235-add-two-integers) |
@@ -175,6 +176,7 @@
 | [0070-climbing-stairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
@@ -273,6 +275,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Binary Search
 |  |
 | ------- |
@@ -349,4 +352,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
