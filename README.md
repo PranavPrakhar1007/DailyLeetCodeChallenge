@@ -26,6 +26,7 @@
 | [0836-rectangle-overlap](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1952-three-divisors](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1952-three-divisors) |
@@ -352,6 +353,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
