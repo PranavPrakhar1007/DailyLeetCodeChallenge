@@ -55,6 +55,7 @@
 | [1678-goal-parser-interpretation](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1773-count-items-matching-a-rule) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0412-fizz-buzz](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
