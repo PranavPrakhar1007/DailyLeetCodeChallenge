@@ -38,6 +38,7 @@
 | [2544-alternating-digit-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [2706-buy-two-chocolates](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 | [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
