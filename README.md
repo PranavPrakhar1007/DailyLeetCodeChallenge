@@ -39,6 +39,7 @@
 | [2614-prime-in-diagonal](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2614-prime-in-diagonal) |
 | [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2761-prime-pairs-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -367,4 +369,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
