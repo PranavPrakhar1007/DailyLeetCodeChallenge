@@ -120,6 +120,7 @@
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1572-matrix-diagonal-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1773-count-items-matching-a-rule) |
@@ -156,6 +157,7 @@
 | [1512-number-of-good-pairs](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1748-sum-of-unique-elements](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2404-most-frequent-even-element) |
 | [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
@@ -287,6 +289,7 @@
 | [0724-find-pivot-index](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 | [0268-missing-number](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/2540-minimum-common-value) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -356,6 +360,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PranavPrakhar1007/DailyLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Backtracking
 |  |
 | ------- |
